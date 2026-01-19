@@ -1,6 +1,6 @@
 # **Hi, I'm Deyno**
 
-<h3>Not Sure What Im Doing....    But Its Somthing</h3>
+<h3>Not Sure What Im Doing....    But Its Something</h3>
 
   - 🌱 &nbsp;&nbsp;Learning: everything
   - 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
