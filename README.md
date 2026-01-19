@@ -10,9 +10,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Sun-Baby-%23FFD700?style=for-the-badge" />
   <br>
-  <img src="https://img.shields.io/badge/Laa--Laa-%23FFD400?style=for-the-badge" />&nbsp;
-  <img src="https://img.shields.io/badge/Tinky%20Winky-%238A2BE2?style=for-the-badge" />&nbsp;
-  <img src="https://img.shields.io/badge/Dipsy-%2300B140?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/Laa--Laa-%23FFD400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tinky%20Winky-%238A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dipsy-%2300B140?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Po-%23E60026?style=for-the-badge" />
 </p>
 <p align="left">
