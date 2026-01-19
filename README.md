@@ -2,15 +2,12 @@
 
 <h3>Not Sure What Im Doing....    But Its Somthing</h3>
 
-- 🌱 &nbsp;&nbsp;Learning: everything
-- 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
-<br>
+  - 🌱 &nbsp;&nbsp;Learning: everything
+  - 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
 <hr>
 <br />
 <h1 align="center"><strong>The Squad</strong</h1>
-<br />
-<br />
-<hr>
+<p align="center">──────────────</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Sun-Baby-%23FFD700?style=for-the-badge" />
   <br>
@@ -29,5 +26,5 @@
   <img src="./assets/teletubbies/dipsy.png" width="115" alt="Dipsy"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/teletubbies/po.png" width="130" alt="Po"/>
 </p>
-<hr>
+<p align="center">─────────────────────────────</p>
 
