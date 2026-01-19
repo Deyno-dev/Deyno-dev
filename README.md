@@ -5,7 +5,6 @@
   - 🌱 &nbsp;&nbsp;Learning: everything
   - 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
 <hr>
-<br />
 <h1 align="center"><strong>The Squad</strong</h1>
 <p align="center">──────────────</p>
 <p align="center">
@@ -26,7 +25,7 @@
   <img src="./assets/teletubbies/dipsy.png" width="115" alt="Dipsy"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/teletubbies/po.png" width="130" alt="Po"/>
 </p>
-<p align="center">─────────────────────────────</p>
+<p align="center">──────────────────────────────</p>
 <br />
 <br />
 <br />
