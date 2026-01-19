@@ -21,8 +21,8 @@
 <br />
 <p align="center">
   <img src="./assets/teletubbies/laa_laa.png" width="150" alt="Laa-Laa"/>
-  <img src="./assets/teletubbies/tinky_winky.png" width="170" alt="Tinky Winky"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/teletubbies/dipsy.png" width="115" alt="Dipsy"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/teletubbies/tinky_winky.png" width="170" alt="Tinky Winky"/>&nbsp;&nbsp;&nbsp;
+  <img src="./assets/teletubbies/dipsy.png" width="115" alt="Dipsy"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/teletubbies/po.png" width="130" alt="Po"/>
 </p>
 <p align="center">──────────────────────────────</p>
