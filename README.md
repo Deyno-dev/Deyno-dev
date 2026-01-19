@@ -35,3 +35,15 @@
   <img src="./assets/teletubbies/vacuum.png" width="300" alt="vacuum"/>
 </p>
 <hr />
+---
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <small><i>This profile is maintained by Noo-Noo.</i></small>
+    </td>
+    <td align="right">
+      <img src="./assets/noo-noo.png" width="90" alt="Noo-Noo peeking"/>
+    </td>
+  </tr>
+</table>
