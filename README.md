@@ -27,4 +27,9 @@
   <img src="./assets/teletubbies/po.png" width="130" alt="Po"/>
 </p>
 <p align="center">─────────────────────────────</p>
-
+<br />
+<br />
+<p align="right"><small><i>“Hrrrrrrrrrr.” — Noo-Noo</i></small></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="right">
+  <img src="./assets/teletubbies/vacuum.png" width="250" alt="vacuum"/>
+</p>
