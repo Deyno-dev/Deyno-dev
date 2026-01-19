@@ -29,7 +29,10 @@
 <p align="center">─────────────────────────────</p>
 <br />
 <br />
-<p align="right"><small><i>“Hrrrrrrrrrr.” — Noo-Noo</i></small></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br />
+<br />
+<p align="right"><small><i>“Hrrrrrrrrrr.” — Noo-Noo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i></small></p>
 <p align="right">
-  <img src="./assets/teletubbies/vacuum.png" width="250" alt="vacuum"/>
+  <img src="./assets/teletubbies/vacuum.png" width="300" alt="vacuum"/>
 </p>
+<hr />
