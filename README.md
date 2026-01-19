@@ -33,7 +33,7 @@
         <sub><i>&nbsp;&nbsp;&nbsp;&nbsp;This profile is maintained by Noo-Noo.&nbsp;&nbsp;&nbsp;&nbsp;</i></sub>
       </td>
       <td align="right">
-        <img src="./assets/teletubbies/noo-noo_wide.png" width="120" />
+        <img src="./assets/teletubbies/noo-noo_wide.png" width="150" />
       </td>
     </tr>
   </table>
