@@ -2,12 +2,13 @@
 
 <h3>Not Sure What Im Doing....    But Its Somthing</h3>
 
-- 🌱 &nbsp;&nbsp;Learning: 
-- 🔎 &nbsp;&nbsp;Improving:
-  
+- 🌱 &nbsp;&nbsp;Learning: everything
+- 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
+<br>
 <hr>
 <br />
 <h1 align="center">The Squad</h1>
+<br />
 <p align="center">
   <img src="https://img.shields.io/badge/Sun-Baby-%23FFD700?style=for-the-badge" />
   <br><br>
