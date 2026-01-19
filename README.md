@@ -27,23 +27,13 @@
 </p>
 <p align="center">──────────────────────────────</p>
 <br />
-<br />
-<br />
-<br />
-<p align="right"><small><i>“Hrrrrrrrrrr.” — Noo-Noo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i></small></p>
-<p align="right">
-  <img src="./assets/teletubbies/vacuum.png" width="300" alt="vacuum"/>
-</p>
-<hr />
----
-
 <table width="100%">
   <tr>
     <td align="center">
-      <small><i>This profile is maintained by Noo-Noo.</i></small>
+      <sub><i>This profile is maintained by Noo-Noo.</i></sub>
     </td>
     <td align="right">
-      <img src="./assets/noo-noo.png" width="90" alt="Noo-Noo peeking"/>
+      <img src="./assets/teletubbies/noo-noo.png" width="85" />
     </td>
   </tr>
 </table>
