@@ -8,7 +8,7 @@
 <h1 align="center"><strong>The Squad</strong</h1>
 <p align="center">──────────────</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Sun-Baby-%23FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%20%20Sun%20%20-%20%20Baby%20%20-%23FFD700?style=for-the-badge" />
   <br>
   <img src="https://img.shields.io/badge/Laa--Laa-%23FFD400?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tinky%20Winky-%238A2BE2?style=for-the-badge" />
