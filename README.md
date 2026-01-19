@@ -26,14 +26,15 @@
   <img src="./assets/teletubbies/po.png" width="130" alt="Po"/>
 </p>
 <p align="center">──────────────────────────────</p>
-<br />
-<table width="100%">
-  <tr>
-    <td align="center">
-      <sub><i>This profile is maintained by Noo-Noo.</i></sub>
-    </td>
-    <td align="right">
-      <img src="./assets/teletubbies/noo-noo.png" width="85" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <sub><i>&nbsp;&nbsp;&nbsp;&nbsp;This profile is maintained by Noo-Noo.&nbsp;&nbsp;&nbsp;&nbsp;</i></sub>
+      </td>
+      <td align="right">
+        <img src="./assets/teletubbies/noo-noo_wide.png" width="120" />
+      </td>
+    </tr>
+  </table>
+</div>
